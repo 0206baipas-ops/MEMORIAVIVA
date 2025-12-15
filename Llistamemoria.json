@@ -1,0 +1,168 @@
+[
+  {
+    "nom": "Plaça de la Puríssima Sang",
+    "carpeta": "1. Plaça de la Puríssima Sang",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "Plaça de la sang.mp4" },
+      { "type": "image", "name": "25bbf500-2deb-4357-abe0-c251dbe127dd_800x600.jpg" },
+      { "type": "image", "name": "c6b8086e-713b-46bf-b86f-e0211587f534_800x600.jpg" },
+      { "type": "image", "name": "d2cb1db2-a392-49c4-8d24-6f1d8021a2ca_800x600.jpg" },
+      { "type": "image", "name": "f6cac8c3-3359-4b97-8a38-185b26bf9a7e_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Plaça de Catalunya",
+    "carpeta": "2. Plaça de Catalunya",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "PixVerse_V5.5_Image_Text_720P_hazme_un_video_d.mp4" },
+      { "type": "image", "name": "2e1448fa-aca0-4804-bf15-f1c683d8189b_800x600.jpg" },
+      { "type": "image", "name": "6df4fd07-bdda-402b-9ce1-7b1ec5b6ff32_800x600.jpg" },
+      { "type": "image", "name": "9149e92e-cabe-4d3e-ad53-1157055f56e8_800x600.jpg" },
+      { "type": "image", "name": "9adbcf57-f6b0-4130-8e49-467c4880ed40_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Raval de Santa Anna",
+    "carpeta": "3. Raval de Santa Anna",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "1765215206622_ee82755b.mp4" },
+      { "type": "image", "name": "2f5c1c54-fdd0-4751-a2ce-21ead17226f6_800x600.jpg" },
+      { "type": "image", "name": "2faf3483-4f3f-4fd5-8e2c-0cb51419a2f5_800x600.jpg" },
+      { "type": "image", "name": "c0c787bf-89bf-43aa-9d2e-310e17710acc_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Plaça de Prim",
+    "carpeta": "4. Plaça de Prim",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "Plaça de Prim.mp4" },
+      { "type": "image", "name": "223a073c-930f-460a-8776-cc1ac4f9c7bd_800x600.jpg" },
+      { "type": "image", "name": "26955df5-28b2-48e5-836b-ebab85b8364c_800x600.jpg" },
+      { "type": "image", "name": "3fec94bf-0113-4d94-b506-ecbfd1c41eb5_800x600.jpg" },
+      { "type": "image", "name": "983d54a6-cec0-4161-8878-b3040e67c520_800x600.jpg" },
+      { "type": "image", "name": "e2099129-ac9e-40e0-a0f7-b1783907092c_800x600.jpg" },
+      { "type": "image", "name": "ec6da4a5-d83f-4205-9694-21368d0ee100_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "El campanaret",
+    "carpeta": "5. El campanaret",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "image", "name": "8ceffd7b-1893-44db-8fc4-28875a1f3897_800x600.jpg" },
+      { "type": "image", "name": "b5c01f6b-0c41-4a93-8821-a187a4fd1a77_800x600.jpg" },
+      { "type": "image", "name": "edaf9519-e65b-4b0f-9f69-e34904073129_800x600.jpg" },
+      { "type": "image", "name": "f75a5dec-3d17-4da6-a4db-87db68b008b2_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Avinguda de Prat de la Riba",
+    "carpeta": "6. Avinguda de Prat de la Riba",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "videoplayback (2).mp4" },
+      { "type": "image", "name": "ea6753c1-cc0c-4bcf-85ae-516236004744_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Mercat Central",
+    "carpeta": "7. Mercat Central",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "PixVerse_V5.5_Image_Text_720P_hazme_un_video_d.mp4" },
+      { "type": "image", "name": "2af27252-30ff-45ee-9eb5-c6baeb64922d_800x600.jpg" },
+      { "type": "image", "name": "942889ec-ac40-420b-9bbd-c461db654cce_800x600.jpg" },
+      { "type": "image", "name": "9ee83629-52fe-45a5-9387-59225a49637f_800x600.jpg" },
+      { "type": "image", "name": "ad146e90-4343-4fab-8793-4fc5f02a834e_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Carrer Sant Joan",
+    "carpeta": "8. Carrer Sant Joan",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "videoplayback (3).mp4" },
+      { "type": "image", "name": "3a9e5582-acce-41be-a1a9-023d63d4724f_800x600.jpg" },
+      { "type": "image", "name": "3c5c56e1-390e-4109-84ae-0a67356dc019_800x600.jpg" },
+      { "type": "image", "name": "81fdedd3-788c-4c59-8e6b-3b801c4862c5_800x600.jpg" },
+      { "type": "image", "name": "e436ff7b-9872-4700-892c-4bddaf08c014_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Rentadors del Carme",
+    "carpeta": "9. Rentadors del Carme",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "PixVerse_V5.5_Image_Text_720P_hazme_un_video_d.mp4" },
+      { "type": "image", "name": "42d5d86f-a42e-4f0a-8c15-ab4a8238c89e_800x600.jpg" },
+      { "type": "image", "name": "b7aa8ad2-b090-4af8-899a-27c3aee6a264_800x600.jpg" },
+      { "type": "image", "name": "d0f474f3-0242-439e-9875-d9e971a84d9e_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Raval de Jesús i Raval Martí Folguera",
+    "carpeta": "10. Raval de Jesús i Raval Martí Folguera",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "PixVerse_V5.5_Image_Text_720P_hazme_un_video_d.mp4" },
+      { "type": "image", "name": "027a7869-80ca-48d6-a0b6-31c4216efefa_800x600.jpg" },
+      { "type": "image", "name": "4a6b76f9-59af-4818-9694-ec1a98e03e8c_800x600.jpg" },
+      { "type": "image", "name": "b0518ff4-de49-4983-ad3f-3284df7054ef_800x600.jpg" },
+      { "type": "image", "name": "c5541744-9646-4a15-98cc-f4b92779431a_800x600.jpg" },
+      { "type": "image", "name": "f6720647-bdaa-484f-8897-6fc9882fa02a_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Plaça del Mercadal",
+    "carpeta": "11. Plaça del Mercadal",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "video", "name": "videoplayback (4).mp4" },
+      { "type": "image", "name": "2c40b45c-8354-4c36-8778-7bf4671c32b3_800x600.jpg" },
+      { "type": "image", "name": "573aa5ed-445d-4327-b2eb-a23a74d920e9_800x600.jpg" },
+      { "type": "image", "name": "619bbdec-6c20-4450-8d78-aa7361f8e204_800x600.jpg" },
+      { "type": "image", "name": "668db660-ac70-437f-91ee-f229484fcdf5_800x600.jpg" },
+      { "type": "image", "name": "d6761acf-35a6-41f1-8911-beedd2408ed5_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Centre de Lectura de Reus",
+    "carpeta": "12. Centre de Lectura de Reus",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "image", "name": "16267f2d-7e82-4505-a628-6458d21f5b33_800x600.jpg" },
+      { "type": "image", "name": "2c47e067-c617-4261-b866-6659a7157991_800x600.jpg" },
+      { "type": "image", "name": "56d1f567-5679-41d8-90c8-c26502007370_800x600.jpg" },
+      { "type": "image", "name": "862b35e5-00e3-408d-9503-42a16f5e5a9a_800x600.jpg" },
+      { "type": "image", "name": "ade1f674-004a-4fac-9109-1f82ed26e82a_800x600.jpg" },
+      { "type": "image", "name": "c8292f10-fefa-4aa9-b193-253b285d412d_800x600.jpg" },
+      { "type": "image", "name": "cb178116-84e6-46f5-b24b-d8488ec96220_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Plaça de Sant Pere i Església Prioral",
+    "carpeta": "13. Plaça de Sant Pere i Església Prioral",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "image", "name": "0b7d536b-74a6-4a27-a2bb-0f28e1692ba3_800x600.jpg" },
+      { "type": "image", "name": "255d433d-8ddb-4219-8e18-611d4fbbb543_800x600.jpg" },
+      { "type": "image", "name": "ba9a7ae0-82b1-4d73-9024-60c4d2d92eaa_800x600.jpg" },
+      { "type": "image", "name": "cb060f0a-24f1-46b2-93ee-6f480f014a0e_800x600.jpg" },
+      { "type": "image", "name": "ed697948-dd3f-4c01-9963-ea0fb4914049_800x600.jpg" },
+      { "type": "image", "name": "fdb8e1a5-cf37-4c74-a140-26cb09d3e691_800x600.jpg" }
+    ]
+  },
+  {
+    "nom": "Raval de Sant Pere",
+    "carpeta": "14. Raval de Sant Pere",
+    "color": "#ece1c4",
+    "media": [
+      { "type": "image", "name": "659005cb-3851-4c66-9dd6-254ca1e46490_800x600.jpg" },
+      { "type": "image", "name": "a0e22f64-5f20-4497-b079-202238ef1be5_800x600.jpg" }
+    ]
+  }
+]

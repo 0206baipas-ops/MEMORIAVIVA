@@ -1,0 +1,69 @@
+{
+  "component": "Somni",
+  "description": "Página principal con efecto masonry de imágenes, títulos animados y texto central",
+  "template": "<div class=\"somni\">\n  <div class=\"titles\" :class=\"{ up: titlesUp }\">\n    <router-link to=\"/somni\" class=\"title-left\" :class=\"{ actiu: $route.path === '/somni' }\">\n      <h1>Somni</h1>\n    </router-link>\n    <router-link to=\"/memoria\" class=\"title-center\" :class=\"{ actiu: $route.path === '/memoria' }\">\n      <h1>Memòria</h1>\n    </router-link>\n    <router-link to=\"/ruta\" class=\"title-right\" :class=\"{ actiu: $route.path === '/ruta' }\">\n      <h1>Ruta</h1>\n    </router-link>\n  </div>\n\n  <div class=\"central-text\" :class=\"{ show: showPermanentText }\">\n    On el passat es desperta i el present es dissol:<br>\n    benvingut al somni modernista.\n  </div>\n\n  <div class=\"masonry\">\n    <img\n      v-for=\"(src, index) in displayedImages\"\n      :key=\"index\"\n      :src=\"src\"\n      class=\"masonry-item\"\n      loading=\"lazy\"\n      @mouseenter=\"hovered = index\"\n      @mouseleave=\"hovered = null\"\n      :class=\"{\n        active: hovered === index,\n        neighbor: hovered !== null && isNeighbor(index, hovered)\n      }\"\n    />\n  </div>\n</div>",
+  "script": {
+    "imports": [
+      "ref, onMounted from 'vue'",
+      "useRoute from 'vue-router'"
+    ],
+    "variables": {
+      "route": "useRoute()",
+      "hovered": "ref(null)",
+      "titlesUp": "ref(false)",
+      "showPermanentText": "ref(false)",
+      "displayedImages": "ref([])"
+    },
+    "imageList": [
+      "/icona/1.jpg",
+      "/icona/2.jpg",
+      "/icona/3.jpg",
+      "/icona/4.jpg",
+      "/icona/5.jpg.webp",
+      "/icona/6.JPG",
+      "/icona/7.jpg",
+      "/icona/8.JPG",
+      "/icona/9.jpeg",
+      "/icona/10.jpg.webp",
+      "/icona/11.jpg.webp",
+      "/icona/12.jpg.webp",
+      "/icona/13.JPG",
+      "/icona/14.JPG",
+      "/icona/15.JPG",
+      "/icona/16.png",
+      "/icona/17.jpeg",
+      "/icona/18.jpg",
+      "/icona/19.jpg",
+      "/icona/20.jpg.avif",
+      "/icona/21.jpg",
+      "/icona/22.jpg",
+      "/icona/23.jpg",
+      "/icona/24.jpg",
+      "/icona/25.jpg",
+      "/icona/26.jpg",
+      "/icona/27.jpeg"
+    ],
+    "functions": {
+      "generateImages": "Genera una lista de ~1750 imágenes repitiendo y barajando las 27 originales",
+      "isNeighbor": "Comprueba si un índice es vecino aproximado del hovered para el efecto de brillo"
+    },
+    "onMounted": "Genera imágenes y controla la animación de bienvenida (solo la primera visita)"
+  },
+  "style": {
+    "main": ".somni { position: fixed; inset: 0; background: white; overflow: hidden; font-family: 'Georgia', serif; }",
+    "titles": "Títulos centrados verticalmente, se mueven arriba al cargar con fade-in",
+    "centralText": "Texto central que aparece después de los títulos",
+    "masonry": {
+      "columnsDefault": 7,
+      "responsive": [
+        { "min-width: 1600px": 9 },
+        { "1400–1599px": 8 },
+        { "max-width: 1200px": 6 },
+        { "max-width: 900px": 5 },
+        { "max-width: 600px": 4 },
+        { "max-width: 400px": 3 }
+      ],
+      "hoverEffect": "Imagen hovered → opacity 1; vecinos → opacity 0.08; resto → opacity 0"
+    }
+  }
+}
