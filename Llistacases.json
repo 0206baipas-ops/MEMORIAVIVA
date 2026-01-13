@@ -19,19 +19,19 @@
   },
   {
     "carpeta": "casa gasull",
-    "imageNames": ["4.JPG", "2.JPG", "3.JPG"],
+    "imageNames": ["2.JPG", "3.JPG", "4.JPG"],
     "nom": "Casa Gasull",
     "descripcio": "<strong>Lluís Domènech i Montaner · 1911-1912</strong><br>Obra tardana del gran mestre català, la Casa Gasull és un prodigi d’equilibri entre el modernisme més floral i les primeres tendències noucentistes. La façana monumental combina pedra tallada i ceràmica vidrada, amb finestrals lobulats i vitralls de colors vius. Els interiors són espectaculars: mosaics, fusta noble tallada i sostres pintats que converteixen l’edifici en una autèntica joia."
   },
   {
     "carpeta": "casa graupla",
-    "imageNames": ["4.JPG", "2.jpg", "3.JPG"],
+    "imageNames": ["2.jpg", "3.JPG", "4.JPG"],
     "nom": "Casa Grau-Pla",
     "descripcio": "<strong>Pere Caselles · 1910</strong><br>Façana serena i elegant on l’ornamentació és discreta però molt refinada. Les baranes de ferro amb motius orgànics i els detalls de pedra a les llindes dialoguen amb una composició que combina harmoniosament línies rectes i corbes, aconseguint un dels conjunts més equilibrats del modernisme reusenc d’aquesta època."
   },
   {
     "carpeta": "casa homdedeu",
-    "imageNames": ["1.JPG", "2.JPG", "4.JPG"],
+    "imageNames": ["2.JPG", "4.JPG", "1.JPG"],
     "nom": "Casa Homdedéu",
     "descripcio": "<strong>Pere Caselles · 1893</strong><br>Una de les primeres obres que anuncien l’arribada del modernisme a Reus. La verticalitat queda marcada per pilastres i finestrals allargats, mentre que l’ornamentació vegetal en estuc i els balcons amb ferro corbat ja mostren la nova sensibilitat estètica que aviat esclataria a la ciutat."
   },
@@ -55,7 +55,7 @@
   },
   {
     "carpeta": "casa iglesias",
-    "imageNames": ["1.JPG", "2.JPG", "3.jpg"],
+    "imageNames": ["2.JPG", "3.jpg", "1.JPG"],
     "nom": "Casa Iglesias",
     "descripcio": "<strong>Pere Caselles · 1908</strong><br>Edifici de composició molt harmònica i vertical. Les baranes ondulades de ferro forjat i l’ornamentació naturalista que envolta les obertures recorden molt la veïna Casa Munné, amb qui comparteix època i estil. Una petita joia discreta però plena de detall."
   },
