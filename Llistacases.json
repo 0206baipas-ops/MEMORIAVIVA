@@ -1,12 +1,12 @@
 [
   {
-    "carpeta": "casa anguera",
+    "carpeta": "casa_anguera",
     "imageNames": ["casanguera1.jpg", "casanguera2.jpg", "casanguera3.jpg"],
     "nom": "Casa Anguera",
     "descripcio": "<strong>Pere Caselles i Tarrats · 1905</strong><br>Edifici burgès de línies simètriques i elegants que exemplifica perfectament el modernisme reusenc més clàssic. Destaquen les balconades de ferro forjat sinuós, l’ornamentació floral en estuc i relleu, i la tribuna central lleugerament avançada que li dona profunditat i moviment. L’ús del maó vist combinat amb pedra treballada aporta calidesa i noblesa a una façana que respira harmonia i refinament."
   },
   {
-    "carpeta": "casa carpa",
+    "carpeta": "casa_carpa",
     "imageNames": ["1.jpg", "2.JPG", "3.JPG"],
     "nom": "Casa Carpa",
     "descripcio": "<strong>Pere Caselles · 1903</strong><br>Un dels primers edificis que es van incorporar a la Ruta del Modernisme. Crida l’atenció el gran ram de flors esculpit sota el balcó del segon pis i la preciosa columna de ferro fos amb capitell decorat que encara es conserva a la planta baixa. Les balconades de ferro forjat sinuós i els revestiments d’estuc i pedra recuperats en la darrera restauració completen una façana plena de vitalitat i detalls delicats."
@@ -48,7 +48,7 @@
     "descripcio": "<strong>Pere Domènech i Roura · 1926</strong><br>Modernisme tardà que ja anuncia el noucentisme. Les formes són més sòbries i geomètriques, però encara conserva l’esperit orgànic en els detalls de ferro i pedra. Perfectament integrada a l’eixample dels anys 20, és un exemple magnífic de la transició estilística de l’època."
   },
   {
-    "carpeta": "casa munné",
+    "carpeta": "casa_munne",
     "imageNames": ["1.JPG", "2.JPG", "3.JPG"],
     "nom": "Casa Munné",
     "descripcio": "<strong>Pere Caselles i Tarrats · 1904</strong><br>Façana d’una riquesa ornamental extraordinària: relleus florals, motllures sinuoses que coronen els finestrals i un treball de ferro forjat als balcons veritablement espectacular. És una de les obres més representatives del millor moment creatiu de Pere Caselles a Reus."
@@ -60,13 +60,13 @@
     "descripcio": "<strong>Pere Caselles · 1908</strong><br>Edifici de composició molt harmònica i vertical. Les baranes ondulades de ferro forjat i l’ornamentació naturalista que envolta les obertures recorden molt la veïna Casa Munné, amb qui comparteix època i estil. Una petita joia discreta però plena de detall."
   },
   {
-    "carpeta": "casa navàs",
+    "carpeta": "casa_navas",
     "imageNames": ["DSC02858.JPG", "DSC02859.JPG", "DSC02860.JPG"],
     "nom": "Casa Navàs",
     "descripcio": "<strong>Lluís Domènech i Montaner · 1901-1907</strong><br>La gran joia del modernisme reusenc i una de les obres més importants de Domènech a Catalunya. Façana amb pedra esculpida, vitralls, mosaics i ceràmiques d’una bellesa aclaparadora. Els interiors —mobles originals, llums, mosaics venecians— s’han conservat intactes des del 1907, incloent-hi la botiga de teixits de la planta baixa. Malgrat la pèrdua de la tribuna i el coronament per una bomba el 1938, segueix sent un dels edificis modernistes més perfectes d’Europa."
   },
   {
-    "carpeta": "casa piñol",
+    "carpeta": "casa_pinhol",
     "imageNames": ["DSC02868.JPG", "DSC02869.JPG", "DSC02870.JPG"],
     "nom": "Casa Piñol",
     "descripcio": "<strong>Pere Caselles · 1910</strong><br>Malgrat la seva façana estreta, l’ornamentació és d’una riquesa i delicadesa extraordinàries. Relleus florals, combinació de pedra i estuc, i baranes de ferro forjat que mostren el segell inconfusible de Caselles en el seu moment de màxima maduresa."
@@ -102,13 +102,13 @@
     "descripcio": "<strong>Pere Caselles · 1908</strong><br>Façana perfectament simètrica amb balcons semicirculars i una ornamentació vegetal molt elegant combinada amb ceràmica decorada. Els finestrals d’estil orgànic i les línies suaus converteixen aquest edificici en un dels més harmònics del carrer Monterols."
   },
   {
-    "carpeta": "casa sardà",
+    "carpeta": "casa_sarda",
     "imageNames": ["DSC02896.JPG", "DSC02897.JPG", "DSC02898.JPG"],
     "nom": "Casa Sardà",
     "descripcio": "<strong>Pere Caselles i Tarrats · 1896</strong><br>Ornamentació més continguda i discreta, pròpia del modernisme incipient. Les baranes de ferro sinuós i els petits detalls florals en punts concrets anuncien ja la revolució estètica que arribaria pocs anys després."
   },
   {
-    "carpeta": "casa tomàs jordi",
+    "carpeta": "casa_tomasjordi",
     "imageNames": ["DSC02937.JPG", "DSC02938.JPG", "DSC02939.JPG"],
     "nom": "Casa Tomàs Jordi",
     "descripcio": "<strong>Pere Caselles · 1909</strong><br>Composició vertical amb una tribuna discreta i balcons estrets de ferro forjat. L’ornamentació floral en estuc i pedra, combinada amb línies netes, dona com a resultat una façana senzilla però d’una gran elegància i proporció."
